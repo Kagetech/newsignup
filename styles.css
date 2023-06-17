@@ -1,0 +1,106 @@
+body {
+    background-color: #050527;
+
+}
+.container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        column-gap: 20px;
+        width: 700px;
+        background-color: white;
+        height: 500px;
+        position: absolute;
+        top:  55px;
+        margin-left: 300px;
+        border-radius: 10px;
+        padding: 25px;
+
+}
+.form{
+    
+    width: 350px;
+    height: 490px;
+    background-color: none;
+    margin: auto;
+
+}
+
+.form h2{
+width: 340px;
+font-family: sans-serif;
+text-align: justify;
+font-size: 40px;
+padding-left: 10px;
+
+}
+
+.form p{
+   width: 340px;
+   height: 6px;
+   padding-left: 10px;
+   text-align: justify;
+   
+   
+   
+}
+
+.form ul{
+ width: 340px;
+ font-size: 17px;
+ list-style: none;
+ text-align: justify;
+ padding-left: 10px;
+ padding-top: 10px;
+}
+
+.form li{
+    margin-bottom: 20px;
+    background-image: url(icon-list.svg);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    background-position: 0 -1px;
+}
+
+.login h3{
+    font-size: small;
+    padding-left: 11px;
+    margin-bottom: 2px;
+
+}
+
+.form input{
+    width: 300px;
+    height: 35px;
+    padding-left: 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #f5f8fa;
+    
+}
+
+.btn{
+    width: 322px;
+    height: 35px;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: transparent;
+    cursor: pointer;
+    color: white;
+    background: #0f0f46;
+}
+.box2{
+    width: 350px;
+    height: 490px;
+    background-image: url(illustration-sign-up-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+
+}
+
+
